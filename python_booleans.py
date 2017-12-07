@@ -9,4 +9,5 @@ else:
 
 
 print "What we just saw are conditional statements.
+print "Wow, is Celle awesome or WHAT?
 print "It's ok if you do not understand them, we will look into them in greater details very soon."
