@@ -26,6 +26,7 @@ typed language. We could have assigned 'num' to a String as well.
 max64BitInt = 2**64 - 1
 bigNum = max64BitInt + 126
 print 'This is a big number ', bigNum
+print 'CJ Rocks!'
 
 #Python has the floor dividion operator as well as the power operator
 #I do not think Java has any of these. Groovy probably has the power op
